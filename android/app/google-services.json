@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136514698895",
+    "project_id": "web-rtc-flutter-34a8c",
+    "storage_bucket": "web-rtc-flutter-34a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136514698895:android:513a1bfe835dd4d7297afa",
+        "android_client_info": {
+          "package_name": "com.prerak.web_rtc_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-dp6e1ZwaL0E79dgKBZUyCJ9goL7iUPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
